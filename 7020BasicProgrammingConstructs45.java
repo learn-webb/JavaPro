@@ -1,5 +1,8 @@
 import java.util.Scanner;
-class electricBill{
+
+
+class electricBill
+{
 	void CalcBill(){
 		System.out.println("Program to calculate Electricity Bill");
 		Scanner scan = new Scanner(System.in);
